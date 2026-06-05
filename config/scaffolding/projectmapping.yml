@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: TestGitFolderProject
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: fld_2041028534_stage00.projects.flb654c35f945849938d0a36401556c587.integrations:testwmio
+    type: flow
+    stepId: /0
+    reference: fld_2041028534_stage00.projects.flb654c35f945849938d0a36401556c587.WmPackageServiceProvider.project.testgitfolder.integrations:testAfterFix
