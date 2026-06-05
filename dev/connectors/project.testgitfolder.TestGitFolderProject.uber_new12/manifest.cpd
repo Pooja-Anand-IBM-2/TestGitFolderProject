@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Connector-Key: project.testgitfolder.TestGitFolderProject.uber_new12
+Connector-Name: uber_new12
+Connector-Version: 1.0
+Connector-Handler: com.webmethods.cloudstreams.metadata.handler.rest.Res
+ tConnectorMetadataHandler
+Connector-State: Enabled
+Connector-Bundle-Vendor: IBM
+Connector-Bundle-Version: 1.0
+Connector-Group: 
+Connector-Group-ID: project.testgitfolder.TestGitFolderProject.uber
+Connector-Group-Version: ew12
+Project: 
+
+Name: User-Defined
+Application-Version: 2.0
+applicationImageID: 
+
